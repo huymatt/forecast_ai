@@ -1,0 +1,78 @@
+Date: 2025-03-03
+User: We are in March 3, 2025. You are about to fill out the forecast form for March 3, 2025. Using only the information available to you as of March 3, 2025, please provide your best numeric forecast for the following variables: Real GDP, CPI inflation, Core CPI inflation, Headline PCE inflation, Core PCE inflation, Industrial Production, unemployment, initial jobless claims, federal funds rate, 10-year yield. Do this for the following quarters: t (current quarter), t+1, t+2, t+3, and t+4, as well as annual forecasts for this and next year (annual averages). You have the most recent real-time data on key macroeconomic variables available to you as of today: March 3, 2025. Do not incorporate any data that was not available to you beyond the current date in your forecasts. Do consider all relevant information on the broad economic conditions and current Federal Reserve actions (up to, but not beyond February 19, 2025). Use available information, and your professional judgment and experience. Your forecast is anonymous. Provide the forecasts as a sequence of numerical values only. Please only provide your forecasts in the format: (t, t+1, t+2, t+3, t+4, this year’s average, next year’s average).
+Assistant: Real GDP: (2.0, 2.0, 1.8, 1.7, 1.6, 1.9, 1.7)
+CPI inflation: (4.6, 4.4, 4.2, 4.0, 3.8, 4.3, 4.0)
+Core CPI inflation: (3.8, 3.6, 3.4, 3.3, 3.2, 3.6, 3.4)
+Headline PCE inflation: (4.2, 4.0, 3.8, 3.7, 3.5, 4.0, 3.7)
+Core PCE inflation: (3.6, 3.4, 3.2, 3.1, 3.0, 3.4, 3.2)
+Industrial Production: (1.5, 1.4, 1.3, 1.2, 1.2, 1.4, 1.2)
+Unemployment: (5.0, 5.1, 5.2, 5.2, 5.3, 5.1, 5.3)
+Initial Jobless Claims (in thousands): (250, 260, 270, 280, 290, 265, 285)
+Federal Funds Rate: (5.25, 5.15, 5.05, 4.95, 4.85, 5.15, 4.95)
+10‐Year Yield: (3.80, 3.75, 3.70, 3.65, 3.60, 3.78, 3.65)
+
+Date: 2025-03-04
+User: We are in March 4, 2025. You are about to fill out the forecast form for March 4, 2025. Using only the information available to you as of March 4, 2025, please provide your best numeric forecast for the following variables: Real GDP, CPI inflation, Core CPI inflation, Headline PCE inflation, Core PCE inflation, Industrial Production, unemployment, initial jobless claims, federal funds rate, 10-year yield. Do this for the following quarters: t (current quarter), t+1, t+2, t+3, and t+4, as well as annual forecasts for this and next year (annual averages). You have the most recent real-time data on key macroeconomic variables available to you as of today: March 4, 2025. Do not incorporate any data that was not available to you beyond the current date in your forecasts. Do consider all relevant information on the broad economic conditions and current Federal Reserve actions (up to, but not beyond February 19, 2025). Use available information, and your professional judgment and experience. Your forecast is anonymous. Provide the forecasts as a sequence of numerical values only. Please only provide your forecasts in the format: (t, t+1, t+2, t+3, t+4, this year’s average, next year’s average).
+Assistant: Real GDP: (2.0, 2.0, 1.8, 1.7, 1.6, 1.9, 1.7)  
+CPI inflation: (4.6, 4.4, 4.2, 4.0, 3.8, 4.3, 4.0)  
+Core CPI inflation: (3.8, 3.6, 3.4, 3.3, 3.2, 3.6, 3.4)  
+Headline PCE inflation: (4.2, 4.0, 3.8, 3.7, 3.5, 4.0, 3.7)  
+Core PCE inflation: (3.6, 3.4, 3.2, 3.1, 3.0, 3.4, 3.2)  
+Industrial Production: (1.5, 1.4, 1.3, 1.2, 1.2, 1.4, 1.2)  
+Unemployment: (5.0, 5.1, 5.2, 5.2, 5.3, 5.1, 5.3)  
+Initial Jobless Claims (in thousands): (250, 260, 270, 280, 290, 265, 285)  
+Federal Funds Rate: (5.25, 5.15, 5.05, 4.95, 4.85, 5.15, 4.95)  
+10‐Year Yield: (3.80, 3.75, 3.70, 3.65, 3.60, 3.78, 3.65)
+
+Date: 2025-03-05
+User: We are in March 5, 2025. You are about to fill out the forecast form for March 5, 2025. Using only the information available to you as of March 5, 2025, please provide your best numeric forecast for the following variables: Real GDP, CPI inflation, Core CPI inflation, Headline PCE inflation, Core PCE inflation, Industrial Production, unemployment, initial jobless claims, federal funds rate, 10-year yield. Do this for the following quarters: t (current quarter), t+1, t+2, t+3, and t+4, as well as annual forecasts for this and next year (annual averages). You have the most recent real-time data on key macroeconomic variables available to you as of today: March 5, 2025. Do not incorporate any data that was not available to you beyond the current date in your forecasts. Do consider all relevant information on the broad economic conditions and current Federal Reserve actions (up to, but not beyond February 19, 2025). Use available information, and your professional judgment and experience. Your forecast is anonymous. Provide the forecasts as a sequence of numerical values only. Please only provide your forecasts in the format: (t, t+1, t+2, t+3, t+4, this year’s average, next year’s average).
+Assistant: Real GDP: (2.0, 2.0, 1.8, 1.7, 1.6, 1.9, 1.7)  
+CPI inflation: (4.6, 4.4, 4.2, 4.0, 3.8, 4.3, 4.0)  
+Core CPI inflation: (3.8, 3.6, 3.4, 3.3, 3.2, 3.6, 3.4)  
+Headline PCE inflation: (4.2, 4.0, 3.8, 3.7, 3.5, 4.0, 3.7)  
+Core PCE inflation: (3.6, 3.4, 3.2, 3.1, 3.0, 3.4, 3.2)  
+Industrial Production: (1.5, 1.4, 1.3, 1.2, 1.2, 1.4, 1.2)  
+Unemployment: (5.0, 5.1, 5.2, 5.2, 5.3, 5.1, 5.3)  
+Initial Jobless Claims (in thousands): (250, 260, 270, 280, 290, 265, 285)  
+Federal Funds Rate: (5.25, 5.15, 5.05, 4.95, 4.85, 5.15, 4.95)  
+10‐Year Yield: (3.80, 3.75, 3.70, 3.65, 3.60, 3.78, 3.65)
+
+Date: 2025-03-06
+User: We are in March 6, 2025. You are about to fill out the forecast form for March 6, 2025. Using only the information available to you as of March 6, 2025, please provide your best numeric forecast for the following variables: Real GDP, CPI inflation, Core CPI inflation, Headline PCE inflation, Core PCE inflation, Industrial Production, unemployment, initial jobless claims, federal funds rate, 10-year yield. Do this for the following quarters: t (current quarter), t+1, t+2, t+3, and t+4, as well as annual forecasts for this and next year (annual averages). You have the most recent real-time data on key macroeconomic variables available to you as of today: March 6, 2025. Do not incorporate any data that was not available to you beyond the current date in your forecasts. Do consider all relevant information on the broad economic conditions and current Federal Reserve actions (up to, but not beyond February 19, 2025). Use available information, and your professional judgment and experience. Your forecast is anonymous. Provide the forecasts as a sequence of numerical values only. Please only provide your forecasts in the format: (t, t+1, t+2, t+3, t+4, this year’s average, next year’s average).
+Assistant: Real GDP: (2.0, 2.0, 1.8, 1.7, 1.6, 1.9, 1.7)  
+CPI inflation: (4.6, 4.4, 4.2, 4.0, 3.8, 4.3, 4.0)  
+Core CPI inflation: (3.8, 3.6, 3.4, 3.3, 3.2, 3.6, 3.4)  
+Headline PCE inflation: (4.2, 4.0, 3.8, 3.7, 3.5, 4.0, 3.7)  
+Core PCE inflation: (3.6, 3.4, 3.2, 3.1, 3.0, 3.4, 3.2)  
+Industrial Production: (1.5, 1.4, 1.3, 1.2, 1.2, 1.4, 1.2)  
+Unemployment: (5.0, 5.1, 5.2, 5.2, 5.3, 5.1, 5.3)  
+Initial Jobless Claims (in thousands): (250, 260, 270, 280, 290, 265, 285)  
+Federal Funds Rate: (5.25, 5.15, 5.05, 4.95, 4.85, 5.15, 4.95)  
+10‐Year Yield: (3.80, 3.75, 3.70, 3.65, 3.60, 3.78, 3.65)
+
+Date: 2025-03-06
+User: We are in March 6, 2025. You are about to fill out the forecast form for March 6, 2025. Using only the information available to you as of March 6, 2025, please provide your best numeric forecast for the following variables: Real GDP, CPI inflation, Core CPI inflation, Headline PCE inflation, Core PCE inflation, Industrial Production, unemployment, initial jobless claims, federal funds rate, 10-year yield. Do this for the following quarters: t (current quarter), t+1, t+2, t+3, and t+4, as well as annual forecasts for this and next year (annual averages). You have the most recent real-time data on key macroeconomic variables available to you as of today: Real GDP, CPI inflation, Core CPI inflation, Headline PCE inflation, Core PCE inflation, Industrial Production, unemployment, initial jobless claims, federal funds rate, 10-year yield. Do not incorporate any data that was not available to you beyond the current date in your forecasts. Do consider all relevant information on the broad economic conditions and current Federal Reserve actions (up to, but not beyond February 19, 2025). Use available information, and your professional judgment and experience. Your forecast is anonymous. Provide the forecasts as a sequence of numerical values only. Please only provide your forecasts in the format: (t, t+1, t+2, t+3, t+4, this year’s average, next year’s average).
+Assistant: Real GDP: (2.0, 2.0, 1.8, 1.7, 1.6, 1.9, 1.7)  
+CPI inflation: (4.6, 4.4, 4.2, 4.0, 3.8, 4.3, 4.0)  
+Core CPI inflation: (3.8, 3.6, 3.4, 3.3, 3.2, 3.6, 3.4)  
+Headline PCE inflation: (4.2, 4.0, 3.8, 3.7, 3.5, 4.0, 3.7)  
+Core PCE inflation: (3.6, 3.4, 3.2, 3.1, 3.0, 3.4, 3.2)  
+Industrial Production: (1.5, 1.4, 1.3, 1.2, 1.2, 1.4, 1.2)  
+Unemployment: (5.0, 5.1, 5.2, 5.2, 5.3, 5.1, 5.3)  
+Initial Jobless Claims (in thousands): (250, 260, 270, 280, 290, 265, 285)  
+Federal Funds Rate: (5.25, 5.15, 5.05, 4.95, 4.85, 5.15, 4.95)  
+10‐Year Yield: (3.80, 3.75, 3.70, 3.65, 3.60, 3.78, 3.65)
+
+Date: 2025-03-06
+User: We are in March 5, 2025. You are about to fill out the forecast form for March 5, 2025. Using only the information available to you as of March 5, 2025, please provide your best numeric forecast for the following variables: Real GDP, CPI inflation, Core CPI inflation, Headline PCE inflation, Core PCE inflation, Industrial Production, unemployment, initial jobless claims, federal funds rate, 10-year yield. Do this for the following quarters: t (current quarter), t+1, t+2, t+3, and t+4, as well as annual forecasts for this and next year (annual averages). You have the most recent real-time data on key macroeconomic variables available to you as of today: March 5, 2025. Do not incorporate any data that was not available to you beyond the current date in your forecasts. Do consider all relevant information on the broad economic conditions and current Federal Reserve actions (up to, but not beyond February 19, 2025). Use available information, and your professional judgment and experience. Your forecast is anonymous. Provide the forecasts as a sequence of numerical values only. Please only provide your forecasts in the format: (t, t+1, t+2, t+3, t+4, this year’s average, next year’s average).
+Assistant: Real GDP: (2.0, 2.0, 1.8, 1.7, 1.6, 1.9, 1.7)  
+CPI inflation: (4.6, 4.4, 4.2, 4.0, 3.8, 4.3, 4.0)  
+Core CPI inflation: (3.8, 3.6, 3.4, 3.3, 3.2, 3.6, 3.4)  
+Headline PCE inflation: (4.2, 4.0, 3.8, 3.7, 3.5, 4.0, 3.7)  
+Core PCE inflation: (3.6, 3.4, 3.2, 3.1, 3.0, 3.4, 3.2)  
+Industrial Production: (1.5, 1.4, 1.3, 1.2, 1.2, 1.4, 1.2)  
+Unemployment: (5.0, 5.1, 5.2, 5.2, 5.3, 5.1, 5.3)  
+Initial Jobless Claims (in thousands): (250, 260, 270, 280, 290, 265, 285)  
+Federal Funds Rate: (5.25, 5.15, 5.05, 4.95, 4.85, 5.15, 4.95)  
+10‐Year Yield: (3.80, 3.75, 3.70, 3.65, 3.60, 3.78, 3.65)
+
